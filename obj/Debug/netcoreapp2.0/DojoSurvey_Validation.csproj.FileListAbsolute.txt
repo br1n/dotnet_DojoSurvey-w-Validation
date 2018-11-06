@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/bin/Debug/netcoreapp2.0/DojoSurvey_Validation.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/bin/Debug/netcoreapp2.0/DojoSurvey_Validation.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/bin/Debug/netcoreapp2.0/DojoSurvey_Validation.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/bin/Debug/netcoreapp2.0/DojoSurvey_Validation.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/bin/Debug/netcoreapp2.0/DojoSurvey_Validation.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/obj/Debug/netcoreapp2.0/DojoSurvey_Validation.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/obj/Debug/netcoreapp2.0/DojoSurvey_Validation.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/obj/Debug/netcoreapp2.0/DojoSurvey_Validation.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/obj/Debug/netcoreapp2.0/DojoSurvey_Validation.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Validation/obj/Debug/netcoreapp2.0/DojoSurvey_Validation.pdb

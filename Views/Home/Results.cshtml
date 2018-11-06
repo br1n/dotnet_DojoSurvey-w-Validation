@@ -1,0 +1,16 @@
+<title>Submitted Info</title>
+<body>
+    @model User
+    <div class="container">
+        <h1>Submitted Info</h1>
+        <hr>
+        <div class="submitted_info">
+            <p>Name: @Model.Name
+            <p>Location: @Model.Location
+            <p>Favorite Language: @Model.Language
+            <p>Comments: "@Model.Comment" -@Model.Name
+        </div>
+        <a href="/" class="button">Go Back</a>
+    </div>
+</body>
+</html>

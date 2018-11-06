@@ -1,0 +1,51 @@
+﻿<title>Coding Dojo Survey</title>
+<body>
+    <div class="container">
+        <h1>Coding Dojo Survey</h1>
+        <hr>
+        @model User
+        <div asp-validation-summary="All"></div>
+        <form action="/create" method="post">
+            <div class="form-group">
+                <label for="Name">Your Name:
+                <input type="text" name="Name" placeholder="Keith Richards">
+            </div>
+
+            <div class="form-group">
+                <label for="Location">Dojo Location:
+                    <select name="Location">
+                        <option value="">-</option>
+                        <option value="DC">DC</option>
+                        <option value="Seattle">Seattle</option>
+                        <option value="Tulsa">Tulsa</option>
+                        <option value="Dallas">Dallas</option>
+                        <option value="San Jose">San Jose</option>
+                        <option value="Online">Online</option>
+                    </select>
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label for="Language">Favorite Language:
+                    <select name="Language">
+                        <option value="">-</option>
+                        <option value="Python">Python</option>
+                        <option value="C#/.NET">C#/.NET</option>
+                        <option value="Ruby">Ruby</option>
+                        <option value="Mean">Mean</option>
+                        <option value="Swift">Swift</option>
+                        <option value="Java">Java</option>
+                    </select>
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label for="Comment">Comments (optional):</label>
+                <textarea name="Comment" id="" cols="30" rows="10"></textarea>
+                <br>
+                <button type="submit">Submit!</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
